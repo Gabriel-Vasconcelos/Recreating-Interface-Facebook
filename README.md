@@ -10,4 +10,4 @@ Recreating the facebook login/register interface
 
 ### Video
 
-![Video](video.mp4?raw=true "Video")
+![Video](gif.gif?raw=true "Video")
